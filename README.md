@@ -1,6 +1,6 @@
 Hello everyone! I'm a student of engineering production at UFES. 
 
-Currently i am learning all of everything that Python Language offers for data analysis.
+Currently i am learning all of everything that Python Language offers for data science.
 
 I hope to improve my problem solving skills using programming more precisely in the use of machine learning algorithms.
 
